@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-ymGICESR.js";const s={data(){return{message:"Hello, Vue!"}}};function a(c,r,n,_,d,p){return t(),o("h2",null,"產品列表")}const u=e(s,[["render",a],["__scopeId","data-v-018756dd"]]);export{u as default};
